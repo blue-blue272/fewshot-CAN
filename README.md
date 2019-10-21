@@ -27,6 +27,10 @@ If you use this code for your research, please cite our paper:
 }
 ```
 
+### Trained models:
+We have released our trained models of CAN on miniImageNet and tieredImageNet benchmark at [google drive](https://drive.google.com/open?id=1Gi3GvQB3Ypwu-QW_CVmToLC64fMv8TqO).
+
+
 ### Platform
 This code was developed and tested with pytorch version 1.0.1
 
