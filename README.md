@@ -6,5 +6,3 @@ This repository contains the code for the paper:
 Ruibing Hou, Hong Chang, Bingpeng Ma, Shiguang Shan, Xilin Chen
 <br>
 NeurIPS 2019 
-
-
