@@ -22,7 +22,7 @@ If you use this code for your research, please cite our paper:
 @inproceedings{CAN,
   title={Cross Attention Network for Few-shot Classification},
   author={Ruibing Hou and Hong Chang and Bingpeng Ma and Shiguang Shan and Xilin Chen},
-  booktitle={},
+  booktitle={NeurIPS},
   year={2019}
 }
 ```
